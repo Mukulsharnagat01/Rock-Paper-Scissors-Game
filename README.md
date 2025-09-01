@@ -48,7 +48,7 @@ Use the Reset Game button to start fresh.
 
 🌐 Live Demo
 
-👉 [http://127.0.0.1:5500/index.html]
+👉 [ https://mukulsharnagat01.github.io/Rock-Paper-Scissors-Game/]
 
 
 🤝 Contributing
