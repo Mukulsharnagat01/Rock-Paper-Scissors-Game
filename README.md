@@ -3,6 +3,7 @@ Rock Paper Scissors 🎮
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 The player chooses Rock, Paper, or Scissors, and the computer makes a random choice. Scores are tracked, and a message shows the result of each round.
 
+
 🚀 Features
 
 Interactive UI with hover effects
@@ -14,6 +15,7 @@ Displays the winner after each round
 Reset button to restart the game
 
 Fully responsive and simple design
+
 
 🛠️ Tech Stack
 
@@ -34,6 +36,8 @@ rock-paper-scissors/
 │    ├── paper.png
 │    └── scissors.png
 
+
+
 🎮 How to Play
 
 Click on Rock, Paper, or Scissors.
@@ -53,13 +57,16 @@ Scores update automatically.
 Use the Reset Game button to start fresh.
 
 
+
 🌐 Live Demo
 
 👉 [http://127.0.0.1:5500/index.html]
 
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
 
 📜 License
 
