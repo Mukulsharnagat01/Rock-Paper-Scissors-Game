@@ -26,18 +26,6 @@ CSS3 – styling
 JavaScript (ES6) – game logic
 
 
-📂 Project Structure
-rock-paper-scissors/
-│── index.html        # Main HTML file
-│── style.css         # Stylesheet
-│── app.js            # Game logic
-│── images/           # Assets used in the game
-│    ├── rock.png
-│    ├── paper.png
-│    └── scissors.png
-
-
-
 🎮 How to Play
 
 Click on Rock, Paper, or Scissors.
